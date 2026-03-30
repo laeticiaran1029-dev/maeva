@@ -1,0 +1,5 @@
+{
+  "name": "Bénévolat ITU Club",
+  "description": "Plateforme de gestion de bénévolat pour l'ITU Club, avec suivi de présence par code unique et assistant intelligent.",
+  "requestFramePermissions": []
+}
